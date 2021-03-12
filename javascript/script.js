@@ -1,4 +1,4 @@
-let weatherApi = 'db3bb1230ff26c33646721c5089c0d54';
+let weatherApi = '';
 
 let weatherBaseEndpoint = 'https://api.openweathermap.org/data/2.5/weather?units=metric&appid=' + weatherApi
 let forecastBaseEndPoint = 'https://api.openweathermap.org/data/2.5/forecast?units=metric&appid=' + weatherApi
